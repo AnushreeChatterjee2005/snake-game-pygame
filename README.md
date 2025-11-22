@@ -1,6 +1,27 @@
-# Snake Eater - Modern Neon Edition
+```
+   _____ _   _          _  ________ ______      _______ ______ _____  
+  / ____| \ | |   /\   | |/ /  ____|  ____|    |__   __|  ____|  __ \ 
+ | (___ |  \| |  /  \  | ' /| |__  | |__    ______| |  | |__  | |__) |
+  \___ \| . ` | / /\ \ |  < |  __| |  __|  |______| |  |  __| |  _  / 
+  ____) | |\  |/ ____ \| . \| |____| |____        | |  | |____| | \ \ 
+ |_____/|_| \_/_/    \_\_|\_\______|______|       |_|  |______|_|  \_\
+                                                                        
+                    🐍 Modern Neon Edition 🎮
+```
 
-A visually enhanced snake game developed in Python using the Pygame library, featuring modern neon/cyberpunk aesthetics with gradient effects, smooth animations, and dynamic visual feedback.
+<div align="center">
+
+**A visually enhanced snake game with modern neon/cyberpunk aesthetics**
+
+*Featuring gradient effects • Smooth animations • Dynamic visual feedback*
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org)
+[![Pygame](https://img.shields.io/badge/Pygame-2.x-green.svg)](https://www.pygame.org)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+</div>
+
+---
 
 ## Motivation
 
